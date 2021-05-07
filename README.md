@@ -1,4 +1,4 @@
-# Incendios-y-variables-bioclim-ticas_Descarga-de-datos-MOD13Q
+# Incendios y variables bioclimáticas: Descarga de datos MOD13Q
 ➡Los incendios, su importancia y elementos que favorecen su propagación. 
 ➡ Cómo descargar el conjunto de datos MOD13Q1 para poder realizar el análisis del comportamiento estacional de variables bioclimáticas.
 Disponible en  <a href="https://www.youtube.com/watch?v=iZkmXoOTqzM" target = "_blank">Youtube</a>
